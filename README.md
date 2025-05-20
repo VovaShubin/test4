@@ -1,6 +1,8 @@
 <p>все зависимости Ларавел в файле composer.json обновляем composer update</p>
+<p>.env прописываем параметры для доступа в бд </p>
 <p>все бд в папке миграции делаем миграцию php artisan migrate</p>
 <p>прописываем для ТГ бота ключи в конфигах telegram.php закрыл try catch что не прерывалось без них</p>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
